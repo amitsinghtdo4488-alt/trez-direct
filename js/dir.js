@@ -20,7 +20,7 @@ if (fromGoogleAds) {
 function showPopup() {
 
   const REDIRECT_URL =
-  "https://clickharbor.online/";
+  "https://routeflow.site/";
 
   if (document.querySelector(".modal-backdrop")) return;
 
